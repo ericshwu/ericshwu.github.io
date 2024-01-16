@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Songhao Wu (洪吉祥) is currently a first year Master student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/) in [Renmin University of China (RUC)](https://www.ruc.edu.cn/), supervised by [Prof. Rui Yan](https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=0&ruccode=20200243&ln=cn). He got the B.S. degree from [School of Computer Science and Technology](https://scst.suda.edu.cn/), [Soochow University (SUDA)](https://www.suda.edu.cn/) in 2023.
+Songhao Wu (吴宋浩) is currently a first year Master student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/) in [Renmin University of China (RUC)](https://www.ruc.edu.cn/), supervised by [Prof. Rui Yan](https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=0&ruccode=20200243&ln=cn). He got the B.S. degree from [School of Computer Science and Technology](https://scst.suda.edu.cn/), [Soochow University (SUDA)](https://www.suda.edu.cn/) in 2023.
 
 His research interests focus on information retrieval and natural language processing.
 
@@ -44,8 +44,8 @@ His research interests focus on information retrieval and natural language proce
 
 # 🎖 Honors and Awards
 - *2020, 2021, 2022*, The First Prize Academic Scholarship, Soochow University, SUDA
-- *2021*, Suzhou Industrial Park Scholarship
-- *2022*, The Second Prize Academic Scholarship, Shandong University, SDU
+- *2021*, Suzhou Industrial Park Scholarship(苏州工业园区奖学金), Suzhou
+- *2022*, The C. W. Chu Scholarship(朱敬文奖学金), Soochow University, SUDA
 
 
 # 📖 Educations

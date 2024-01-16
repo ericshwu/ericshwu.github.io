@@ -44,8 +44,8 @@ His research interests focus on information retrieval and natural language proce
 
 # 🎖 Honors and Awards
 - *2020, 2021, 2022*, The First Prize Academic Scholarship, Soochow University, SUDA
-- *2021*, Suzhou Industrial Park Scholarship(苏州工业园区奖学金), Suzhou
-- *2022*, The C. W. Chu Scholarship(朱敬文奖学金), Soochow University, SUDA
+- *2021*, Suzhou Industrial Park Scholarship (苏州工业园区奖学金), Suzhou
+- *2022*, The C. W. Chu Scholarship (朱敬文奖学金), Soochow University, SUDA
 
 
 # 📖 Educations

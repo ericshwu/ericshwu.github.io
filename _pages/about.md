@@ -36,5 +36,5 @@ My research interests focus on efficient LLMs and their mechanistic interpretabi
 
 # 💻 Internships
 - 20225.6- Now, Tencent Hunyuan, mentored by Ruobing Xie
-- 2024.12 - 2025.5, Meituan, China
-- 2023.9 - 2024.11, Ant Group, China.
+- 2024.12 - 2025.5, Meituan
+- 2023.9 - 2024.11, Ant Group

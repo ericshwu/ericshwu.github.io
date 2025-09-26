@@ -17,35 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Songhao Wu (吴宋浩) is currently a first year Master student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/) in [Renmin University of China (RUC)](https://www.ruc.edu.cn/), supervised by [Prof. Rui Yan](https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=0&ruccode=20200243&ln=cn). He got the B.S. degree from [School of Computer Science and Technology](https://scst.suda.edu.cn/), [Soochow University (SUDA)](https://www.suda.edu.cn/) in 2023.
+I am currently a first year Ph.D. student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/) in [Renmin University of China (RUC)](https://www.ruc.edu.cn/), supervised by [Prof. Rui Yan](https://scholar.google.com/citations?hl=en&user=eLw6g-UAAAAJ) and [Prof. Yankai Lin](https://scholar.google.com/citations?hl=en&user=j8K1FqEAAAAJ). 
 
-His research interests focus on information retrieval and natural language processing.
+My research interests focus on efficient LLMs and their mechanistic interpretability. I am dedicated to enhance the fundamental capabilities of LLMs.
 
+# News
+- *2025.09*: One paper is accepted by NeurIPS 2025.
+- *2025.06*: I am selected by 2025 CCF-Tencent Rhino-Bird Elite Talent Program, mentored by [Ruobing Xie](https://ruobingxie.github.io/).
+
+# Publications
+- **Songhao Wu**, Ang Lv*, Xiao Feng, Yufei Zhang, Xun Zhang, Guojun Yin, Wei Lin, Rui Yan. PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration, *Proceedings of the 39th Annual Conference on Neural Information Processing Systems (NeurIPS' 25).*
+- Ang Lv, Ruobing Xie, Yining Qian, **Songhao Wu**, Xingwu Sun, Zhanhui Kang, Di Wang, Rui Yan. Autonomy-of-Experts Models, *Proceedings of the 42nd International Conference on Machine Learning (ICML’25).*
+- Tao Tan, Yining Qian, Ang Lv, Hongzhan Lin, Songhao Wu, Yongbo Wang, Feng Wang, Xin Lu, Rui Yan. PEAR: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead, *Proceedings of the ACM Web Conference 2025 (WWW'25 Oral).*.
+- Songhao Wu, Quan Tu, Mingjie Zhong, Hong Liu, Jia Xu, Jinjie Gu, Rui Yan, *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM'2024)*
+- Songhao Wu, Quan Tu, Hong Liu, Jia Xu, Zhongyi Liu, Guannan Zhang, Xiuying Chen, Rui Yan. *Proceedings of the ACM Web Conference 2024 (WWW'24).*
 
 <!-- # 🔥 News -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-<!-- # 📝 Publications -->
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
-<!-- <div class='paper-box-text' markdown="1"> -->
-
-<!-- [CycleAlign: Iterative Distillation from Black-box LLM to White-box Models for Better Human Alignment (Arxiv)](https://arxiv.org/pdf/2310.16271.pdf) -->
-
-<!-- **Jixiang Hong\***, Quan Tu\*, Changyu Chen, Xing Gao, Ji Zhang, Rui Yan -->
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
-</div> -->
-<!-- </div> -->
-
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
-# 🎖 Honors and Awards
-- *2020, 2021, 2022*, The First Prize Academic Scholarship, Soochow University, SUDA
-- *2021*, Suzhou Industrial Park Scholarship (苏州工业园区奖学金), Suzhou
-- *2022*, The C. W. Chu Scholarship (朱敬文奖学金), Soochow University, SUDA
 
 
 # 📖 Educations

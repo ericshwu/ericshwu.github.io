@@ -27,7 +27,7 @@ My research interests focus on efficient LLMs and their mechanistic interpretabi
 # Publications
 - **Songhao Wu**, Ang Lv*, Xiao Feng, Yufei Zhang, Xun Zhang, Guojun Yin, Wei Lin, Rui Yan. PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration, *(NeurIPS' 25).*
 - Ang Lv, Ruobing Xie, Yining Qian, **Songhao Wu**, Xingwu Sun, Zhanhui Kang, Di Wang, Rui Yan. Autonomy-of-Experts Models, *(ICML’25)*.
-- Tao Tan, Yining Qian, Ang Lv, Hongzhan Lin, Songhao Wu, Yongbo Wang, Feng Wang, Xin Lu, Rui Yan. PEAR: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead, *(WWW'25 Oral)*.
+- Tao Tan, Yining Qian, Ang Lv, Hongzhan Lin, **Songhao Wu**, Yongbo Wang, Feng Wang, Xin Lu, Rui Yan. PEAR: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead, *(WWW'25 Oral)*.
 - **Songhao Wu**, Quan Tu, Mingjie Zhong, Hong Liu, Jia Xu, Jinjie Gu, Rui Yan, *(CIKM'24)*.
 - **Songhao Wu**, Quan Tu, Hong Liu, Jia Xu, Zhongyi Liu, Guannan Zhang, Xiuying Chen, Rui Yan. *(WWW'24)*.
 

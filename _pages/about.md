@@ -25,11 +25,11 @@ My research interests focus on efficient LLMs and their mechanistic interpretabi
 - *2025.06*: I am selected by 2025 CCF-Tencent Rhino-Bird Elite Talent Program, mentored by [Ruobing Xie](https://ruobingxie.github.io/).
 
 # Publications
-- **Songhao Wu**, Ang Lv*, Xiao Feng, Yufei Zhang, Xun Zhang, Guojun Yin, Wei Lin, Rui Yan. PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration, *Proceedings of the 39th Annual Conference on Neural Information Processing Systems (NeurIPS' 25).*
-- Ang Lv, Ruobing Xie, Yining Qian, **Songhao Wu**, Xingwu Sun, Zhanhui Kang, Di Wang, Rui Yan. Autonomy-of-Experts Models, *Proceedings of the 42nd International Conference on Machine Learning (ICML’25).*
-- Tao Tan, Yining Qian, Ang Lv, Hongzhan Lin, Songhao Wu, Yongbo Wang, Feng Wang, Xin Lu, Rui Yan. PEAR: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead, *Proceedings of the ACM Web Conference 2025 (WWW'25 Oral).*.
-- Songhao Wu, Quan Tu, Mingjie Zhong, Hong Liu, Jia Xu, Jinjie Gu, Rui Yan, *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM'2024)*
-- Songhao Wu, Quan Tu, Hong Liu, Jia Xu, Zhongyi Liu, Guannan Zhang, Xiuying Chen, Rui Yan. *Proceedings of the ACM Web Conference 2024 (WWW'24).*
+- **Songhao Wu**, Ang Lv*, Xiao Feng, Yufei Zhang, Xun Zhang, Guojun Yin, Wei Lin, Rui Yan. PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration, *(NeurIPS' 25).*
+- Ang Lv, Ruobing Xie, Yining Qian, **Songhao Wu**, Xingwu Sun, Zhanhui Kang, Di Wang, Rui Yan. Autonomy-of-Experts Models, *(ICML’25)*.
+- Tao Tan, Yining Qian, Ang Lv, Hongzhan Lin, Songhao Wu, Yongbo Wang, Feng Wang, Xin Lu, Rui Yan. PEAR: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead, *(WWW'25 Oral)*.
+- Songhao Wu, Quan Tu, Mingjie Zhong, Hong Liu, Jia Xu, Jinjie Gu, Rui Yan, *(CIKM'2024)*.
+- Songhao Wu, Quan Tu, Hong Liu, Jia Xu, Zhongyi Liu, Guannan Zhang, Xiuying Chen, Rui Yan. *(WWW'24)*.
 
 # Academic Services
 - Conference Reviewer: ARR Reviewer

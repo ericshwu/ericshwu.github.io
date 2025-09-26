@@ -38,6 +38,6 @@ My research interests focus on efficient LLMs and their mechanistic interpretabi
 - Conference Reviewer: ARR Reviewer
 
 # 💻 Internships
-- 20225.6- Now, Tencent Hunyuan, mentored by Ruobing Xie
+- 2025.6- Now, Tencent Hunyuan, mentored by Ruobing Xie
 - 2024.12 - 2025.5, Meituan
 - 2023.9 - 2024.11, Ant Group

@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first year Ph.D. student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/) in [Renmin University of China (RUC)](https://www.ruc.edu.cn/), supervised by [Prof. Rui Yan](https://scholar.google.com/citations?hl=en&user=eLw6g-UAAAAJ) and [Prof. Yankai Lin](https://scholar.google.com/citations?hl=en&user=j8K1FqEAAAAJ). 
+I am currently a first year Ph.D. student at Gaoling School of Artificial Intelligence (GSAI) in Renmin University of China (RUC), supervised by Prof. Rui Yan and Prof. Yankai Lin. 
 My research interests focus on efficient LLMs and their mechanistic interpretability. I am dedicated to enhance the fundamental capabilities of LLMs.
 
 # News within this year
@@ -28,7 +28,7 @@ My research interests focus on efficient LLMs and their mechanistic interpretabi
 - **Songhao Wu**, Ang Lv*, Xiao Feng, Yufei Zhang, Xun Zhang, Guojun Yin, Wei Lin, Rui Yan. PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration, *(NeurIPS' 25).*
 - Ang Lv, Ruobing Xie, Yining Qian, **Songhao Wu**, Xingwu Sun, Zhanhui Kang, Di Wang, Rui Yan. Autonomy-of-Experts Models, *(ICML’25)*.
 - Tao Tan, Yining Qian, Ang Lv, Hongzhan Lin, Songhao Wu, Yongbo Wang, Feng Wang, Xin Lu, Rui Yan. PEAR: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead, *(WWW'25 Oral)*.
-- Songhao Wu, Quan Tu, Mingjie Zhong, Hong Liu, Jia Xu, Jinjie Gu, Rui Yan, *(CIKM'2024)*.
+- Songhao Wu, Quan Tu, Mingjie Zhong, Hong Liu, Jia Xu, Jinjie Gu, Rui Yan, *(CIKM'24)*.
 - Songhao Wu, Quan Tu, Hong Liu, Jia Xu, Zhongyi Liu, Guannan Zhang, Xiuying Chen, Rui Yan. *(WWW'24)*.
 
 # Academic Services

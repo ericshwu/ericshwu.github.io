@@ -23,6 +23,7 @@ My research interests focus on efficient LLMs and their mechanistic interpretabi
 # News within this year
 - *2025.09*: One paper is accepted by NeurIPS 2025.
 - *2025.06*: I am selected by 2025 CCF-Tencent Rhino-Bird Elite Talent Program, mentored by [Ruobing Xie](https://ruobingxie.github.io/).
+- *2025.05*: One paper is accepted by ICML 2025.
 
 # Publications
 - **Songhao Wu**, Ang Lv\*, Xiao Feng, Yufei Zhang, Xun Zhang, Guojun Yin, Wei Lin, Rui Yan. PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration, *(NeurIPS' 25).*
@@ -38,6 +39,6 @@ My research interests focus on efficient LLMs and their mechanistic interpretabi
 - Conference Reviewer: ARR Reviewer
 
 # 💻 Internships
-- 2025.6- Now, Tencent Hunyuan, mentored by Ruobing Xie
+- 2025.6- Now, Tencent, mentored by Ruobing Xie
 - 2024.12 - 2025.5, Meituan
 - 2023.9 - 2024.11, Ant Group

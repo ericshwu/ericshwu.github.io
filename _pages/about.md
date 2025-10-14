@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a first year Ph.D. student at Gaoling School of Artificial Intelligence (GSAI) in Renmin University of China (RUC), supervised by Prof. Rui Yan and Prof. Yankai Lin. 
-My research interests focus on efficient LLMs and their mechanistic interpretability. I am dedicated to enhance the fundamental capabilities of LLMs.
+My research interests focus on efficient LLMs and their mechanistic interpretability. 
+
+I am dedicated to enhance the fundamental capabilities of LLMs.
 
 # News within this year
 - *2025.09*: One paper is accepted by NeurIPS 2025.
@@ -36,7 +38,7 @@ My research interests focus on efficient LLMs and their mechanistic interpretabi
 - Jia-Nan Li, Jian Guan, Songhao Wu, Wei Wu, Rui Yan. From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment
 
 # Academic Services
-- Conference Reviewer: ARR Reviewer
+- Conference Reviewer: ARR Reviewer, ICLR Reviewer
 
 # 💻 Internships
 - 2025.6- Now, Tencent, mentored by Ruobing Xie

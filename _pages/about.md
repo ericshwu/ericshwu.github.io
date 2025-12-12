@@ -38,7 +38,7 @@ I am dedicated to enhance the fundamental capabilities of LLMs.
 - Jia-Nan Li, Jian Guan, Songhao Wu, Wei Wu, Rui Yan. From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment
 
 # Academic Services
-- Conference Reviewer: ARR Reviewer, ICLR Reviewer
+- Conference Reviewer: ICLR Reviewer
 
 # 💻 Internships
 - 2025.6- Now, Tencent, mentored by Ruobing Xie

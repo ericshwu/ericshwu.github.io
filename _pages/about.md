@@ -35,7 +35,7 @@ My research interests focus on foundation language models pre-training, particul
 ## Efficient LLM
 - PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration. <br> **Songhao Wu** and Ang Lv\* etal. Thirty-ninth Annual Conference on Neural Information Processing Systems, *(NeurIPS' 25).*
 
-## Retrieval
+## Information Retrieval
 - Bridge the Gap between Past and Future: Siamese Model Optimization for Context-Aware Document Ranking. <br> **Songhao Wu** et al. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management, *(CIKM'24)*.
 - Unify Graph Learning with Text: Unleashing LLM Potentials for Session Search. <br> **Songhao Wu** et al. Proceedings of the ACM on Web Conference 2024, *(WWW'24)*.
 

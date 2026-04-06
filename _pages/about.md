@@ -18,27 +18,34 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a first year Ph.D. student at Gaoling School of Artificial Intelligence in Renmin University of China, supervised by Prof. Yankai Lin. 
-My research interests focus on foundation language models, particularly Mixture-of-Experts (MoE).
+My research interests focus on foundation language models pre-training, particularly Mixture-of-Experts (MoE).
 
 # News within this year
+- *2026.04*: Two papers are accpeted by ACL 2026.
 - *2025.09*: One paper is accepted by NeurIPS 2025.
 - *2025.06*: I am selected by 2025 CCF-Tencent Rhino-Bird Elite Talent Program, mentored by [Ruobing Xie](https://ruobingxie.github.io/).
 - *2025.05*: One paper is accepted by ICML 2025.
 
 # Publications
-- **Songhao Wu**, Ang Lv\*, Xiao Feng, Yufei Zhang, Xun Zhang, Guojun Yin, Wei Lin, Rui Yan. PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration, *(NeurIPS' 25).*
-- Ang Lv, Ruobing Xie, Yining Qian, **Songhao Wu**, Xingwu Sun, Zhanhui Kang, Di Wang, Rui Yan. Autonomy-of-Experts Models, *(ICML’25)*.
-- Tao Tan, Yining Qian, Ang Lv, Hongzhan Lin, **Songhao Wu**, Yongbo Wang, Feng Wang, Xin Lu, Rui Yan. PEAR: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead, *(WWW'25 Oral)*.
-- **Songhao Wu**, Quan Tu, Mingjie Zhong, Hong Liu, Jia Xu, Jinjie Gu, Rui Yan. Bridge the Gap between Past and Future: Siamese Model Optimization for Context-Aware Document Ranking, *(CIKM'24)*.
-- **Songhao Wu**, Quan Tu, Hong Liu, Jia Xu, Zhongyi Liu, Guannan Zhang, Xiuying Chen, Rui Yan. Unify Graph Learning with Text: Unleashing LLM Potentials for Session Search, *(WWW'24)*.
+## Foundation Language Models
+- Union-of-Experts: Neurons in Mixture-of-Experts are Secretly Routers. **Songhao Wu** et al.
+- PEAR: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead. Tao Tan\*, Yining Qian\* and Ang Lv\* et al. *(WWW'25 Oral)*.
+- Autonomy-of-Experts Models. Ang Lv et al. *(ICML’25)*.
 
-# Preprints
-- Jia-Nan Li, Jian Guan, Songhao Wu, Wei Wu, Rui Yan. From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment
+## Efficient LLM
+- PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration, **Songhao Wu** and Ang Lv\* etal. *(NeurIPS' 25).*
+
+## Retrieval
+- Bridge the Gap between Past and Future: Siamese Model Optimization for Context-Aware Document Ranking. **Songhao Wu** et al. *(CIKM'24)*.
+- Unify Graph Learning with Text: Unleashing LLM Potentials for Session Search. **Songhao Wu** et al. *(WWW'24)*.
+
+## Others
+- From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment. Jia-Nan Li et al.
 
 # Academic Services
 - Conference Reviewer: ICLR, ICML Reviewer
 
-# 💻 Internships
+# Internships
 - 2025.6- Now, Tencent Hunyuan, mentored by Ruobing Xie
 - 2024.12 - 2025.5, Meituan
 - 2023.9 - 2024.11, Ant Group

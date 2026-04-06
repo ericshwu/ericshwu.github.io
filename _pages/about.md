@@ -29,21 +29,21 @@ My research interests focus on foundation language models pre-training, particul
 # Publications
 ## Foundation Language Models
 - Union-of-Experts: Neurons in Mixture-of-Experts are Secretly Routers. **Songhao Wu** et al.
-- PEAR: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead. Tao Tan\*, Yining Qian\* and Ang Lv\* et al. *(WWW'25 Oral)*.
-- Autonomy-of-Experts Models. Ang Lv et al. *(ICML’25)*.
+- PEAR: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead. <br> Tao Tan\*, Yining Qian\* and Ang Lv\* et al. Proceedings of the ACM on Web Conference 2025, *(WWW'25 Oral)*.
+- Autonomy-of-Experts Models. Ang Lv et al. Proceedings of the 42nd International Conference on Machine Learning, *(ICML’25)*.
 
 ## Efficient LLM
-- PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration, **Songhao Wu** and Ang Lv\* etal. *(NeurIPS' 25).*
+- PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration. <br> **Songhao Wu** and Ang Lv\* etal. Thirty-ninth Annual Conference on Neural Information Processing Systems, *(NeurIPS' 25).*
 
 ## Retrieval
-- Bridge the Gap between Past and Future: Siamese Model Optimization for Context-Aware Document Ranking. **Songhao Wu** et al. *(CIKM'24)*.
-- Unify Graph Learning with Text: Unleashing LLM Potentials for Session Search. **Songhao Wu** et al. *(WWW'24)*.
+- Bridge the Gap between Past and Future: Siamese Model Optimization for Context-Aware Document Ranking. <br> **Songhao Wu** et al. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management, *(CIKM'24)*.
+- Unify Graph Learning with Text: Unleashing LLM Potentials for Session Search. <br> **Songhao Wu** et al. Proceedings of the ACM on Web Conference 2024, *(WWW'24)*.
 
 ## Others
 - From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment. Jia-Nan Li et al.
 
 # Academic Services
-- Conference Reviewer: ICLR, ICML Reviewer
+- Conference Reviewer: ICLR, ICML, ARR Reviewer
 
 # Internships
 - 2025.6- Now, Tencent Hunyuan, mentored by Ruobing Xie

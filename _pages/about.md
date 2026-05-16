@@ -21,6 +21,7 @@ I am currently a first year Ph.D. student at Gaoling School of Artificial Intell
 My research interests focus on foundation language models pre-training, particularly Mixture-of-Experts (MoE).
 
 # News within this year
+- *2026.05*: One paper is accepted by KDD 2026.
 - *2026.04*: Two papers are accpeted by ACL 2026.
 - *2025.09*: One paper is accepted by NeurIPS 2025.
 - *2025.06*: I am selected by 2025 CCF-Tencent Rhino-Bird Elite Talent Program, mentored by [Ruobing Xie](https://ruobingxie.github.io/).
@@ -36,6 +37,7 @@ My research interests focus on foundation language models pre-training, particul
 - PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration. <br> **Songhao Wu** and Ang Lv\* etal. Thirty-ninth Annual Conference on Neural Information Processing Systems, *(NeurIPS' 25).*
 
 ## Information Retrieval
+- Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings. **Songhao Wu** and Zhongxin Chen et al.
 - Bridge the Gap between Past and Future: Siamese Model Optimization for Context-Aware Document Ranking. <br> **Songhao Wu** et al. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management, *(CIKM'24)*.
 - Unify Graph Learning with Text: Unleashing LLM Potentials for Session Search. <br> **Songhao Wu** et al. Proceedings of the ACM on Web Conference 2024, *(WWW'24)*.
 
@@ -43,7 +45,7 @@ My research interests focus on foundation language models pre-training, particul
 - From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment. Jia-Nan Li et al.
 
 # Academic Services
-- Conference Reviewer: ICLR, ICML, ARR Reviewer
+- Conference Reviewer: ICML, NeurIPS, ICLR, ARR Reviewer
 
 # Internships
 - 2025.6- Now, Tencent Hunyuan, mentored by Ruobing Xie

@@ -36,11 +36,11 @@ My research interests focus on foundation language models pre-training, particul
 
 ## Efficient LLM
 - [PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration.](https://arxiv.org/abs/2502.00527) [![GitHub stars](https://img.shields.io/github/stars/ericshwu/PolarQuant?style=flat-square)](https://github.com/ericshwu/PolarQuant) <br>
-- **Songhao Wu** and Ang Lv\* etal. Thirty-ninth Annual Conference on Neural Information Processing Systems, *(NeurIPS' 25).*
+**Songhao Wu** and Ang Lv\* etal. Thirty-ninth Annual Conference on Neural Information Processing Systems, *(NeurIPS' 25).*
 
 ## Information Retrieval
-- [Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings.](https://arxiv.org/abs/2606.07502) [![GitHub stars](https://img.shields.io/github/stars/CentreChen/EmbFilter?style=flat-square)](https://github.com/CentreChen/EmbFilter)
-- **Songhao Wu** and Zhongxin Chen et al.
+- [Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings.](https://arxiv.org/abs/2606.07502) [![GitHub stars](https://img.shields.io/github/stars/CentreChen/EmbFilter?style=flat-square)](https://github.com/CentreChen/EmbFilter) <br>
+**Songhao Wu** and Zhongxin Chen et al.
 - Bridge the Gap between Past and Future: Siamese Model Optimization for Context-Aware Document Ranking. <br> **Songhao Wu** et al. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management, *(CIKM'24)*.
 - Unify Graph Learning with Text: Unleashing LLM Potentials for Session Search. <br> **Songhao Wu** et al. Proceedings of the ACM on Web Conference 2024, *(WWW'24)*.
 

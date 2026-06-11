@@ -27,17 +27,18 @@ My research interests focus on foundation language models pre-training, particul
 - *2025.06*: I am selected by 2025 CCF-Tencent Rhino-Bird Elite Talent Program, mentored by [Ruobing Xie](https://ruobingxie.github.io/).
 - *2025.05*: One paper is accepted by ICML 2025.
 
-# Publications
+# Publications & Preprint
 ## Foundation Language Models
+- [Redesign Mixture-of-Experts Routers with Manifold Power Iteration.](https://arxiv.org/abs/2606.12397) **Songhao Wu** et al. *(Preprint)*
 - Union-of-Experts: Neurons in Mixture-of-Experts are Secretly Routers. **Songhao Wu** et al.
-- Autonomy-of-Experts Models. Ang Lv et al. Proceedings of the 42nd International Conference on Machine Learning, *(ICML’25)*.
-- PEAR: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead. <br> Tao Tan\*, Yining Qian\* and Ang Lv\* et al. Proceedings of the ACM on Web Conference 2025, *(WWW'25 Oral)*.
+- [Autonomy-of-Experts Models.](https://arxiv.org/html/2501.13074v1) Ang Lv et al. Proceedings of the 42nd International Conference on Machine Learning, *(ICML’25)*.
+- [PEAR: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead.](https://arxiv.org/abs/2409.19745) <br> Tao Tan\*, Yining Qian\* and Ang Lv\* et al. Proceedings of the ACM on Web Conference 2025, *(WWW'25 Oral)*.
 
 ## Efficient LLM
-- PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration. <br> **Songhao Wu** and Ang Lv\* etal. Thirty-ninth Annual Conference on Neural Information Processing Systems, *(NeurIPS' 25).*
+- [PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration.](https://arxiv.org/abs/2502.00527) [![GitHub stars](https://img.shields.io/github/stars/vuejs/core?style=flat-square)](https://github.com/ericshwu/PolarQuant) <br> **Songhao Wu** and Ang Lv\* etal. Thirty-ninth Annual Conference on Neural Information Processing Systems, *(NeurIPS' 25).*
 
 ## Information Retrieval
-- Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings. **Songhao Wu** and Zhongxin Chen et al.
+- [Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings.](https://arxiv.org/abs/2606.07502) **Songhao Wu** and Zhongxin Chen et al.
 - Bridge the Gap between Past and Future: Siamese Model Optimization for Context-Aware Document Ranking. <br> **Songhao Wu** et al. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management, *(CIKM'24)*.
 - Unify Graph Learning with Text: Unleashing LLM Potentials for Session Search. <br> **Songhao Wu** et al. Proceedings of the ACM on Web Conference 2024, *(WWW'24)*.
 
@@ -48,6 +49,6 @@ My research interests focus on foundation language models pre-training, particul
 - Conference Reviewer: ICML, NeurIPS, ICLR, ARR Reviewer
 
 # Internships
-- 2025.6- Now, Tencent Hunyuan, mentored by Ruobing Xie
+- 2025.6- Now, Tencent Hunyuan, LLM Dept
 - 2024.12 - 2025.5, Meituan
 - 2023.9 - 2024.11, Ant Group

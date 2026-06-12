@@ -29,8 +29,8 @@ My research interests focus on foundation language models pre-training, particul
 
 # Publications & Preprint
 ## Foundation Language Models
-- [Redesign Mixture-of-Experts Routers with Manifold Power Iteration.](https://arxiv.org/abs/2606.12397) **Songhao Wu** et al. *(Preprint)*
-- Union-of-Experts: Neurons in Mixture-of-Experts are Secretly Routers. **Songhao Wu** et al.
+- [Redesign Mixture-of-Experts Routers with Manifold Power Iteration.](https://arxiv.org/abs/2606.12397) **Songhao Wu** et al., *(Preprint)*
+- Union-of-Experts: Neurons in Mixture-of-Experts are Secretly Routers. **Songhao Wu** et al., *(ACL’26)*.
 - [Autonomy-of-Experts Models.](https://arxiv.org/html/2501.13074v1) Ang Lv et al. Proceedings of the 42nd International Conference on Machine Learning, *(ICML’25)*.
 - [PEAR: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead.](https://arxiv.org/abs/2409.19745) <br> Tao Tan\*, Yining Qian\* and Ang Lv\* et al. Proceedings of the ACM on Web Conference 2025, *(WWW'25 Oral)*.
 
@@ -40,7 +40,7 @@ My research interests focus on foundation language models pre-training, particul
 
 ## Information Retrieval
 - [Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings.](https://arxiv.org/abs/2606.07502) [![GitHub stars](https://img.shields.io/github/stars/CentreChen/EmbFilter?style=flat-square)](https://github.com/CentreChen/EmbFilter) <br>
-**Songhao Wu** and Zhongxin Chen et al.
+**Songhao Wu** and Zhongxin Chen et al., *(KDD’26)*. 
 - Bridge the Gap between Past and Future: Siamese Model Optimization for Context-Aware Document Ranking. <br> **Songhao Wu** et al. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management, *(CIKM'24)*.
 - Unify Graph Learning with Text: Unleashing LLM Potentials for Session Search. <br> **Songhao Wu** et al. Proceedings of the ACM on Web Conference 2024, *(WWW'24)*.
 

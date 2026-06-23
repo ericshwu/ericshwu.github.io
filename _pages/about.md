@@ -40,7 +40,7 @@ My research interests focus on foundation language models pre-training, particul
 
 ## Information Retrieval
 - [Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings.](https://arxiv.org/abs/2606.07502) [![GitHub stars](https://img.shields.io/github/stars/CentreChen/EmbFilter?style=flat-square)](https://github.com/CentreChen/EmbFilter) <br>
-**Songhao Wu** and Zhongxin Chen et al., *(KDD’26)*. 
+**Songhao Wu** and Zhongxin Chen et al., *(KDD’26 Oral)*. 
 - Bridge the Gap between Past and Future: Siamese Model Optimization for Context-Aware Document Ranking. <br> **Songhao Wu** et al. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management, *(CIKM'24)*.
 - Unify Graph Learning with Text: Unleashing LLM Potentials for Session Search. <br> **Songhao Wu** et al. Proceedings of the ACM on Web Conference 2024, *(WWW'24)*.
 

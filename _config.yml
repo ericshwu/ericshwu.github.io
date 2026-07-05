@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Songhao Wu"
   avatar           : "images/profile.jpg"
-  bio              : "Renmin University of China"
+  bio              : ""
   location         : "Haidian, Beijing"
   employer         :
   pubmed           : 

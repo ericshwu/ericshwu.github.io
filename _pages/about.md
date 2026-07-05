@@ -21,15 +21,16 @@ I am currently a first year Ph.D. student at Gaoling School of Artificial Intell
 My research interests focus on foundation language models pre-training, particularly Mixture-of-Experts (MoE).
 
 # News within this year
-- *2026.05*: One paper is accepted by KDD 2026.
-- *2026.04*: Two papers are accpeted by ACL 2026.
-- *2025.09*: One paper is accepted by NeurIPS 2025.
+- *2026.06*: We propose a redesign of Routers with Manifold Power Iteration, a fresh perspective to address the inherent flaw in MoE.
+- *2026.05*: "EmbedFilter" is accepted by KDD 2026 *Oral*, a linear filter designed to refine zero-shot text embeddings.
+- *2026.04*: Two papers, "Union-of-Experts" and "AlignX", are accpeted by ACL 2026.
+- *2025.09*: "PolarQuant" is accepted by NeurIPS 2025, where a polar transformation perspective for KV Quant is proposed for the first time.
 - *2025.06*: I am selected by 2025 CCF-Tencent Rhino-Bird Elite Talent Program, mentored by [Ruobing Xie](https://ruobingxie.github.io/).
 
 # Publications & Preprint
 ## Foundation Language Models
 - [Redesign Mixture-of-Experts Routers with Manifold Power Iteration.](https://arxiv.org/abs/2606.12397) **Songhao Wu** et al., *(Preprint)*
-- [Union-of-Experts: Neurons in Mixture-of-Experts are Secretly Routers.](https://aclanthology.org/2026.acl-long.1675/) <br> **Songhao Wu** et al. Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, *(ACL’26)*.
+- [Union-of-Experts: Neurons in Mixture-of-Experts are Secretly Routers.](https://aclanthology.org/2026.acl-long.1675/) **Songhao Wu** et al. <br> Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, *(ACL’26)*.
 - [Autonomy-of-Experts Models.](https://arxiv.org/html/2501.13074v1) Ang Lv et al. Proceedings of the 42nd International Conference on Machine Learning, *(ICML’25)*.
 - [PEAR: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead.](https://arxiv.org/abs/2409.19745) <br> Tao Tan\*, Yining Qian\* and Ang Lv\* et al. Proceedings of the ACM on Web Conference 2025, *(WWW'25 Oral)*.
 
@@ -38,8 +39,8 @@ My research interests focus on foundation language models pre-training, particul
 **Songhao Wu** and Ang Lv\* et al. Thirty-ninth Annual Conference on Neural Information Processing Systems, *(NeurIPS' 25).*
 
 ## Information Retrieval
-- [Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings.](https://arxiv.org/abs/2606.07502) [![GitHub stars](https://img.shields.io/github/stars/CentreChen/EmbFilter?style=flat-square)](https://github.com/CentreChen/EmbFilter) <br>
-**Songhao Wu** and Zhongxin Chen et al. Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, *(KDD’26 Oral)*. 
+- [Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings.](https://arxiv.org/abs/2606.07502) [![GitHub stars](https://img.shields.io/github/stars/CentreChen/EmbFilter?style=flat-square)](https://github.com/CentreChen/EmbFilter) **Songhao Wu** and Zhongxin Chen et al. <br>
+Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, *(KDD’26 Oral)*. 
 - Bridge the Gap between Past and Future: Siamese Model Optimization for Context-Aware Document Ranking. <br> **Songhao Wu** et al. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management, *(CIKM'24)*.
 - Unify Graph Learning with Text: Unleashing LLM Potentials for Session Search. <br> **Songhao Wu** et al. Proceedings of the ACM on Web Conference 2024, *(WWW'24)*.
 

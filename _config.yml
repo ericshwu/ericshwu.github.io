@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Songhao Wu"
-description              : "Songhao Wu's Homepage"
+title                    : "Songhao Wu (吴宋浩)"
+description              : "Ph.D. Student at Gaoling School of Artificial Intelligence (GSAI), Renmin University of China"
 repository               : "erichshwu/ericshwu.github.io"
 google_scholar_stats_use_cdn : true
 

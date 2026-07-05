@@ -21,7 +21,7 @@ I am currently a first year Ph.D. student at Gaoling School of Artificial Intell
 My research interests focus on foundation language models pre-training, particularly Mixture-of-Experts (MoE).
 
 # News within this year
-- *2026.06*: We propose "Routers with Manifold Power Iteration", a fresh perspective to address the flaw in MoE router design.
+- *2026.06*: We propose "Routers with Manifold Power Iteration", a fresh perspective to address inherent flaw in MoE router design.
 - *2026.05*: "EmbedFilter" is accepted by KDD 2026 *Oral*, a linear filter designed to refine zero-shot text embeddings.
 - *2026.04*: Two papers, "Union-of-Experts" and "AlignX", are accpeted by ACL 2026.
 - *2025.09*: "PolarQuant" is accepted by NeurIPS 2025, we propose a polar transformation perspective for KV Quant for the first time.

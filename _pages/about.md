@@ -51,6 +51,8 @@ Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mi
 - Conference Reviewer: ICML (*Silver*), NeurIPS, ICLR, ARR Reviewer
 
 # Internships
-- 2025.6- Now, Research Intern, Pretraining Team, Tencent Hunyuan. Mentor: [Ruobing Xie](https://ruobingxie.github.io/).
+- 2025.6 - 2025.8, Research Intern, Pretraining Team, Tencent Hunyuan. <br>
+I am deeply grateful to [Ruobing Xie](https://ruobingxie.github.io/) for his guidance, which introduced me to LLM pre-training and inspired our line of research on MoE.
+
 - 2024.12 - 2025.5, Meituan
 - 2023.9 - 2024.11, Ant Group

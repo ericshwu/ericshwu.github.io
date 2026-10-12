@@ -48,7 +48,7 @@ Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mi
 - [From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment.](https://aclanthology.org/2026.acl-long.1391/) <br> Jia-Nan Li et al. Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics, *(ACL’26)*.
 
 # Academic Services
-- Conference Reviewer: ICML (*Silver*), NeurIPS, ICLR, ARR Reviewer
+- Conference Reviewer: ICML (*Silver*), NeurIPS (*Top Reviewer*), ICLR, ARR Reviewer
 
 # Internships
 - 2025.6 - 2025.8, Research Intern, Pretraining Team, Tencent Hunyuan. <br>
